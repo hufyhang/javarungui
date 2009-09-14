@@ -1,1 +1,1 @@
-JavaRun is an application, which was programmed by HANG Feifei in C# programming language, to free your hands from typing works on keyboards when you work with Java source files. With the user-friendly UI, JavaRun has been able to relieve your stress by simple mouse clicks on buttons. 
+JavaRun is the former project name of JavaGo.
