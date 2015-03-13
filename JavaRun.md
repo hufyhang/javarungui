@@ -1,0 +1,1 @@
+JavaRun is the former project name of JavaGo.

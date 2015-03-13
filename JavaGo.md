@@ -1,0 +1,1 @@
+JavaGo is an application, which was programmed with .NET by HANG Feifei, to free your hands from traditional typing works on keyboards when working with Java source files. With the user-friendly UI, JavaGo has been able to relieve your stress by simple mouse clicks on buttons.

@@ -1,0 +1,1 @@
+JavaGo(JavaRun, in former name) Monitor is a Windows Command Prompt simulator in JavaGo. Users has been able to check out the outputs of their Java source files there by JavaGo's collections.
